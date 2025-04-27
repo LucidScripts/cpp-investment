@@ -1,0 +1,3 @@
+﻿  Project Two.cpp
+C:\Users\Alex\source\repos\Project Two\Project Two\Project Two.cpp(82,10): warning C4101: 'key': unreferenced local variable
+  Project Two.vcxproj -> C:\Users\Alex\source\repos\Project Two\x64\Debug\Project Two.exe
